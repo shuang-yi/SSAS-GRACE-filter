@@ -33,3 +33,7 @@ Contact information: Shuang Yi (shuangyi.geo@gmail.com)
     An example to illustrate how an ASCII file can be converted to the data format used here.
     Note that these raw GSM data require special processing for the low degree coefficients 
     and to be subtracted from the reference field, which are not provided here.
+
+- SSAS_final_result/CSR06_200204-202106.zip
+
+    The ready-to-use CSR RL06 product filterred by SSAS. The C20 term has been replaced and the geocenter terms have been added back.
